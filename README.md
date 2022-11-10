@@ -1,2 +1,1 @@
-# 
-JS + API Countries
+# JS + API Countries
